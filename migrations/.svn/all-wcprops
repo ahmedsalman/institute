@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/felloz/!svn/ver/6/felloz/institute/migrations
+END
+0001_initial.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/felloz/!svn/ver/1/felloz/institute/migrations/0001_initial.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/felloz/!svn/ver/1/felloz/institute/migrations/__init__.py
+END
+0002_auto__del_unique_subdiscipline_institute_discipline__add_unique_subdis.py
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/felloz/!svn/ver/6/felloz/institute/migrations/0002_auto__del_unique_subdiscipline_institute_discipline__add_unique_subdis.py
+END
